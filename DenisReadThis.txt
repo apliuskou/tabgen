@@ -1,0 +1,4 @@
+Hi, Denis!
+
+Original LINKFiles Console app can't generate any file. Something wrong with this solution.
+I have to modify it.
